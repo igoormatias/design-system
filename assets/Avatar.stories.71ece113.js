@@ -1,0 +1,2 @@
+import{A as t}from"./index.85cfac7e.js";import"./index.0b1036c9.js";import"./iframe.7500df7f.js";import"./index.f8014fce.js";import"./jsx-runtime.3dedcd23.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/igoormatias.png",alt:"Igor Matias"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},e=["Primary","WithFallBack"];export{c as Primary,m as WithFallBack,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.71ece113.js.map
